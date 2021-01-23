@@ -1,0 +1,17 @@
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+build
+dist
+.snowpack
+
+*.sublime*
+
+psd
+thumb
+sketch
