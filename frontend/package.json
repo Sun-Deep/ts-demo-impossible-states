@@ -1,0 +1,15 @@
+{
+  "name": "ts-proper-type-example",
+  "version": "1.0.0",
+  "description": "TypeScript Demo: Making impossible states impossible",
+  "main": "index.ts",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "author": "Anup Dhakal <20139982+exanup@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "snowpack": "^3.0.11"
+  }
+}
